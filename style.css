@@ -830,9 +830,13 @@ h4 {
     font-weight: 600 !important;
 }
 
-ul{
+li, li a{
     color: #000000 !important;
     font-weight: 700 !important;
+}
+
+.title-bloc-5{
+    color: white !important;
 }
 @media (max-width: 1024px) {
     .bloc {
