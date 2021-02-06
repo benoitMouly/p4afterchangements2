@@ -830,7 +830,7 @@ h4 {
     font-weight: 600 !important;
 }
 
-li, li a{
+ul, li, li a{
     color: #000000 !important;
     font-weight: 700 !important;
 }
@@ -839,8 +839,14 @@ li, li a{
     color: white !important;
 }
 
+.tc-black{
+    color: #000 !important;
+
+}
+
 .subtitle-text{
     font-weight: 600;
+    color: #000 !important;
 }
 
 @media (max-width: 1024px) {
