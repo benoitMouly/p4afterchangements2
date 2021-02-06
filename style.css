@@ -839,6 +839,9 @@ li, li a{
     color: white !important;
 }
 
+.tc-black {
+    color: black;
+}
 
 @media (max-width: 1024px) {
     .bloc {
