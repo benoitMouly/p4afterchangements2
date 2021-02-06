@@ -825,8 +825,8 @@ h4 {
     background-image: url("img/image-de-presentation-modif.jpg");
 }
 
-.verbatim-footer{
-    color: #000000 !important;
+.verbatim-black{
+    color: black !important;
     font-weight: 600 !important;
 }
 
@@ -835,9 +835,11 @@ li, li a{
     font-weight: 700 !important;
 }
 
-.title-bloc-5{
+.tc-white{
     color: white !important;
 }
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -924,7 +926,7 @@ li, li a{
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
-        float: none!important;
+        /*float: none!important;*/
     }
     .navbar.row {
         margin-left: 0;
