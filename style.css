@@ -849,6 +849,11 @@ ul, li, li a{
     color: #000 !important;
 }
 
+.temoignage{
+    font-style: oblique;
+    font-weight: 600;
+    font-size: 18px;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
